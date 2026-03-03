@@ -14,51 +14,61 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Yagnik Jivani</h1>
-<h3 align="center">🚀 Software Developer | DSA Enthusiast | Computer Engineering Student</h3>
-
----
-
-## 👨‍💻 About Me
-
-- 🎓 B.Tech Computer Engineering Student  
-- 💻 Passionate about Software Development  
-- 🔥 Solving Data Structures & Algorithms daily  
-- 📚 Currently learning System Design & REST APIs  
-- 🎯 Goal: Become a Skilled Software Engineer  
-
----
-
-## 🛠 Tech Stack
-
-### 💻 Languages
-- Java
-- SQL
-- C
-- HTML
-- CSS
-
-### ⚡ Concepts
-- Data Structures & Algorithms
-- Object-Oriented Programming (OOP)
-- REST APIs
-- DBMS
-
----
-
-## 📊 GitHub Stats
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Hi+I'm+Yagnik+Jivani;Java+Backend+Developer;DSA+%7C+System+Design+Learner;Building+Scalable+Systems" />
+</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yagnikjivani010-byte&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yagnikjivani010-byte&theme=tokyonight" />
+  <img src="https://komarev.com/ghpvc/?username=yagnikjivani010-byte&label=Profile+Views&color=00ff00&style=flat" />
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+```bash
+> whoami
+Yagnik Jivani
+
+> role
+Backend Developer | Competitive Programmer
+
+> focus
+Java • Data Structures • REST APIs • System Design
+```
+
+---
+
+## 🧠 Tech Arsenal
+
+```yaml
+Languages:
+  - Java
+  - SQL
+  - C
+  - HTML
+  - CSS
+
+Core Concepts:
+  - Data Structures & Algorithms
+  - Object-Oriented Programming
+  - DBMS
+  - REST APIs
+```
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yagnikjivani010-byte&show_icons=true&theme=chartreuse-dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yagnikjivani010-byte&theme=chartreuse-dark" />
+</p>
+
+---
+
+## 🐍 Contribution Activity
 
 <p align="center">
   <img src="https://github.com/yagnikjivani010-byte/yagnikjivani010-byte/blob/output/github-contribution-grid-snake-dark.svg" />
@@ -66,7 +76,16 @@ Here are some ideas to get you started:
 
 ---
 
-## 📫 Connect With Me
+## 🔗 Connect
 
-- 📧 Email: yagnikjivani010@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/yagnik-jivani-038627329
+```bash
+Email    : yagnikjivani010@gmail.com
+LinkedIn : linkedin.com/in/yagnik-jivani-038627329
+Location : Surat, India
+```
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=100&section=footer"/>
+</p>
